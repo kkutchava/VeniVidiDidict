@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.exe.config
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.exe
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.pdb
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.Form1.resources
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.Properties.Resources.resources
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.exe
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.pdb
