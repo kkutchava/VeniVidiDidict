@@ -19,3 +19,5 @@ C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidi
 C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.exe
 C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.pdb
 C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.QuestionView.resources
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.QuestionView.resources
+C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.GenInfo.resources

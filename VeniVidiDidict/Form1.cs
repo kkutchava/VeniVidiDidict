@@ -65,5 +65,11 @@ namespace VeniVidiDidict
             }
             return question;
         }
+
+        private void genClick(object sender, EventArgs e)
+        {
+            GenInfo g = new GenInfo();
+            g.Show();
+        }
     }
 }
