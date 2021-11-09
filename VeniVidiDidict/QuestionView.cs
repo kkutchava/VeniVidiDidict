@@ -19,6 +19,8 @@ namespace VeniVidiDidict
             this.question = newQuestion;
             this.imageBox.Image = question.image;
             this.topicNameLbl.Text = question.Topic;
+            this.questionLbl.Text = question.question;
+            this.ResultLbl.Text = "";
 
         }
 
