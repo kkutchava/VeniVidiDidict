@@ -36,7 +36,20 @@ namespace VeniVidiDidict
 
         private void Info(object sender, EventArgs e)
         {
+            if (sender is Button)
+            {
+                Button btn = (Button)sender;
+                InfoView infoView;
+                if(btn.Name.ToString() == "InfoButton1")
+                {
+                    infoView = new InfoView(InfoCat.firstIsland);
+                } else
+                {
+                    infoView = new InfoView(InfoCat.secondIsland);
+                }
 
+                infoView.Show();
+            }
         }
 
         private Question getQuestion(string questionName)

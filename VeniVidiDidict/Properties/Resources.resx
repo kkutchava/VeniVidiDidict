@@ -118,25 +118,67 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="testImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\testImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="question1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\question1_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="map" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="question1_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\question1_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="question1_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\question1_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="question2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question2_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="question2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\question2_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="question2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\question2_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="question1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question1_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="map" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="testImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\testImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="question1_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question1_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat1_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat1_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="infoCat2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\infoCat2_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
