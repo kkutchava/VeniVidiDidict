@@ -8,3 +8,14 @@ C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiD
 C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.exe
 C:\Users\admin\Desktop\Hakaton\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.pdb
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.exe.config
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.exe
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\bin\Debug\VeniVidiDidict.pdb
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.AssemblyReference.cache
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.Form1.resources
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.Properties.Resources.resources
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.GenerateResource.cache
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.csproj.CoreCompileInputs.cache
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.exe
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.pdb
+C:\Users\sulkh\source\repos\VeniVidiDidict\VeniVidiDidict\obj\Debug\VeniVidiDidict.QuestionView.resources
